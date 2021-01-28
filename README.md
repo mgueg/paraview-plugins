@@ -10,7 +10,7 @@ The python code `MeanByGrainsFilter` implement simple paraview python filter to 
 - the second is the result dataset, possibly multiple along the time range used (list of multiple output files) ;
 
 <p align="center">
-<img src="" alt="drawing" width="750"/>
+<img src="images/screenshot_pv57.png" alt="drawing" width="750"/>
 </p>
 
 
