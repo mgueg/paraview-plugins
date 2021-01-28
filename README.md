@@ -1,5 +1,6 @@
 # paraview plugins
 
+## `MeanByGrainsFilter`
 
 The python code `MeanByGrainsFilter` implement simple paraview python filter to compute mean field for VTK image dataset, used for post-processing FFT solver computation. The plugin use 2 kind of dataset (VTKImage dataset, eg `*.vti`): 
 
