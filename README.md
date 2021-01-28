@@ -8,7 +8,8 @@ The python code `MeanByGrainsFilter` implement simple paraview python filter to 
 
 ## Installation
 
-Just open, then load it from `Tools -> Manage Plugins` paraview menu. That's all.
+Just open, then load it from `Tools -> Manage Plugins` paraview menu. That's all. Paraview will search any plugin subdirectory found in `Paraview/plugins` ; You can directly load any plugin from this path.
+
 
 
 
